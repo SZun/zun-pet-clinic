@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.zun</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>1.0.5</version>
+	<version>1.0.5-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>Zun Pet Clinic Project</description>
 
@@ -23,8 +23,8 @@
 	</properties>
 
 	<scm>
-		<developerConnection>scm:git:SZun@github.com:SZun/zun-pet-clinic.git</developerConnection>
-		<connection>scm:git:SZun@github.com:SZun/zun-pet-clinic.git</connection>
+		<developerConnection>scm:git:git@github.com:SZun/zun-pet-clinic.git</developerConnection>
+		<connection>scm:git:git@github.com:SZun/zun-pet-clinic.git</connection>
 		<url>https://github.com/SZun/zun-pet-clinic/</url>
     	<tag>pet-clinic-1.0.5</tag>
   </scm>
