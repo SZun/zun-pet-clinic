@@ -26,7 +26,7 @@
 		<developerConnection>scm:git:git@github.com:SZun/zun-pet-clinic.git</developerConnection>
 		<connection>scm:git:git@github.com:SZun/zun-pet-clinic.git</connection>
 		<url>https://github.com/SZun/zun-pet-clinic/</url>
-    <tag>pet-clinic-1.0.5</tag>
+    	<tag>HEAD</tag>
   </scm>
 
 	<build>
