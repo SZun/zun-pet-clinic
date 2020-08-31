@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.zun</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>1.0.11-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>Zun Pet Clinic Project</description>
 
@@ -24,9 +24,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:SZun/zun-pet-clinic.git</developerConnection>
-		<connection>scm:git:git@github.com:SZun/zun-pet-clinic.git</connection>
-		<url>https://github.com/SZun/zun-pet-clinic/</url>
-    	<tag>pet-clinic-1.0.2</tag>
+		<tag>HEAD</tag>
   </scm>
 
 	<build>
@@ -41,7 +39,7 @@
 				<configuration>
 					<goals>clean install</goals>
 <!--					<defaultGoal>install</defaultGoal>-->
-					<autoVersionSubmodules>true</autoVersionSubmodules>
+<!--					<autoVersionSubmodules>true</autoVersionSubmodules>-->
 				</configuration>
 			</plugin>
 		</plugins>
