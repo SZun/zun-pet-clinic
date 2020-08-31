@@ -1,1 +1,5 @@
 com/zun/petclinic/PetClinicApplication.class
+com/zun/petclinic/bootstrap/DataLoader.class
+com/zun/petclinic/controllers/VetController.class
+com/zun/petclinic/controllers/IndexController.class
+com/zun/petclinic/controllers/OwnerController.class

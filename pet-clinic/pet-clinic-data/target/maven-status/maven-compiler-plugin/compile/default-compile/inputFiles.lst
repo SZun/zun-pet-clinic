@@ -1,5 +1,14 @@
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Owner.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/map/VetMapService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/map/OwnerMapService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/BaseEntity.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Vet.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/VetService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/map/PetMapService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Pet.java
 /Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Person.java
 /Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/PetType.java
-/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Owner.java
-/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Vet.java
-/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/models/Pet.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/CrudService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/PetService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/OwnerService.java
+/Users/samg.zun/Documents/References/Udemy/zun-pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/zun/petclinic/services/map/AbstractMapService.java

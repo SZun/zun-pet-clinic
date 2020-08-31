@@ -1,5 +1,14 @@
 com/zun/petclinic/models/Pet.class
-com/zun/petclinic/models/Owner.class
 com/zun/petclinic/models/Vet.class
-com/zun/petclinic/models/PetType.class
+com/zun/petclinic/services/map/PetMapService.class
+com/zun/petclinic/services/map/VetMapService.class
 com/zun/petclinic/models/Person.class
+com/zun/petclinic/services/OwnerService.class
+com/zun/petclinic/models/BaseEntity.class
+com/zun/petclinic/services/CrudService.class
+com/zun/petclinic/models/PetType.class
+com/zun/petclinic/services/VetService.class
+com/zun/petclinic/models/Owner.class
+com/zun/petclinic/services/map/AbstractMapService.class
+com/zun/petclinic/services/PetService.class
+com/zun/petclinic/services/map/OwnerMapService.class
