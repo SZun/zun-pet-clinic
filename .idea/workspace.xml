@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0de7876-2c12-4020-b0be-cfe751f75106" name="Default Changelist" comment="" />
+    <list default="true" id="d0de7876-2c12-4020-b0be-cfe751f75106" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/home/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/.circleci/project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/home/circleci/project/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/pet-clinic/pet-clinic-data/target/" />
     <ignored path="$PROJECT_DIR$/pet-clinic/pet-clinic-web/target/" />
     <ignored path="$PROJECT_DIR$/pet-clinic/target/" />
@@ -83,17 +86,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.circleci/project/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/circleci/project/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="546">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
@@ -183,8 +186,8 @@
         <option value="$PROJECT_DIR$/pet-clinic/pet-clinic-data/src/test/java/com/zun/petclinic/services/springdatajpa/OwnerSDJpaServiceTest.java" />
         <option value="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/main/java/com/zun/petclinic/controllers/OwnerController.java" />
         <option value="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/test/java/com/zun/petclinic/controllers/OwnerControllerTest.java" />
-        <option value="$PROJECT_DIR$/.circleci/config.yml" />
         <option value="$PROJECT_DIR$/.circleci/project/pom.xml" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
       </list>
     </option>
   </component>
@@ -351,8 +354,13 @@
             <path>
               <item name="zun-pet-clinic" type="b2602c69:ProjectViewProjectNode" />
               <item name="zun-pet-clinic" type="462c0819:PsiDirectoryNode" />
-              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zun-pet-clinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zun-pet-clinic" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="circleci" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zun-pet-clinic" type="b2602c69:ProjectViewProjectNode" />
@@ -455,6 +463,8 @@
       <recent name="com.zun.petclinic.services.map" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.circleci" />
+      <recent name="$PROJECT_DIR$/home" />
       <recent name="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/pet-clinic/pet-clinic-web/src/main/resources" />
     </key>
@@ -979,13 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pet-clinic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -993,10 +996,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.circleci/project/pom.xml">
+    <entry file="file://$PROJECT_DIR$/home/circleci/project/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
